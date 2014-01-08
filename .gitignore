@@ -1,3 +1,6 @@
+# Mac OS X files that are not needed.
+*.DS_Store
+
 lib-cov
 *.seed
 *.log
